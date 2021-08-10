@@ -6,6 +6,8 @@ I planed to lear many thing during this. My main focuses is on ml and web develo
 
 SO, Day1, Today i am learn pandas module of python. i am learn how we can read .csv file in pandas, what is data-frame and series. Hove we can get data from table, How to index work in pandas,and many more think about pandas.
 
+Github: [Code](https://github.com/zeel-codder/100-days-of-code/commit/e349016282db1da52469981d6417e5cd4cfd4789)
+
 #100daysofcode
 #code
 @ZeelCodder
