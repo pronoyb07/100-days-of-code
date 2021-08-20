@@ -7,7 +7,7 @@ Today I  Learned About TypeScript. I am worked in Javascript and Some Time Findi
 
 Today, I Learned about data type, Interface, Class, Function in TypeScript. Here is My Code which I Write for just Practice purposes.
 
- More:
+
 
 
 
