@@ -28,16 +28,6 @@ App Main functionality:
 
 
 
-
-
-For me, it's a great achievement because this is my first full-stack project where I build the frontend, backend, and also crate the database. Also, I learn how to host The App on the Web.
-
-
-
-So, this is Version 1.0 of My App. As I know what is Socket Programming I am going to add chat functionality to the app.
-
-
-
 If you like my work then please like this post so that I get motivation and I can build such amazing things.
 
 
